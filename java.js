@@ -1,5 +1,5 @@
 //MECHENDO COM CONTADOR
-var deadline = new Date("Jan 1, 2023 00:00:00").getTime();
+var deadline = new Date("Jan 1, 2024 00:00:00").getTime();
 
 var resetInterval = setInterval(function() {
 
